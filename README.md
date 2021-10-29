@@ -5,7 +5,7 @@
 
 - 🎓 I am third-year computer science student at ITMO University
 - 🌱 I’m currently learning C++, Python
-- 📫 How to reach me: dennymf@yandex.ru
+- 📫 How to reach me: dennymf@yandex.ru  
 [<img src='src/image/tg.png' alt='Telegram' height='20'>](https://t.me/denny178)
 [<img src='src/image/vk.png' alt='VK' height='20'>](https://vk.com/denny178)
 <!--
