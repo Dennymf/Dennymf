@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Danil!
 #### I am third year CS student and C++ developer
 
-*picture*
+![title image](src/image/owl.jpg)
 
 Skills: ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
