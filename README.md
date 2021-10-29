@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I am Danil!
+#### I am third year CS student and C++ developer
 
+*picture*
+
+🎓 I am third-year computer science student at ITMO University
+🌱 I’m currently learning C++, Python
+📫 How to reach me:
+[<img src='https://mooscle.com/app/uploads/2019/10/telegram-886x668.png' alt='Telegram' height='40'>](https://t.me/denny178)
 <!--
 **Dennymf/Dennymf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
