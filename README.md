@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Danil!
-#### I am third year CS student and C++ developer
+#### I am fourth year CS student and C++ developer
 
 ![title image](src/image/owl.jpg)
 
@@ -7,10 +7,13 @@ Skills: ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![UE4/5](https://img.shields.io/badge/-UnrealEngine4/5-05122A?style=flat&logo=unrealengine)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 
 ### About me
 
-- 🎓 I am third-year computer science student at ITMO University
+- 🎓 I am fourth-year computer science student at ITMO University
 - 🌱 I’m currently learning C++, Python
 - 💬 [CV](src/cv) for more details about me
 - 📫 How to reach me: dennymf@yandex.ru 
